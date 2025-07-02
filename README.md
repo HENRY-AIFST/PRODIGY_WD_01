@@ -61,6 +61,8 @@ To run this project on your local machine:
 git clone https://github.com/HENRY-AIFST/PRODIGY_WD_01.git
 cd PRODIGY_WD_01
 open index.html
+```
+##
 
 🌱 Future Enhancements
 🌓 Dark/light mode toggle
